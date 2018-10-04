@@ -11,4 +11,8 @@ public class Hello {
     public void showMsg(){
         System.out.println("Hello Tom!");
     }
+
+    public  void test(){
+        System.out.println("This is for test");
+    }
 }
