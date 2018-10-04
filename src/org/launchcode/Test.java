@@ -9,6 +9,6 @@ public class Test {
         Hello hello = new Hello();
         hello.displayMsg();
         hello.showMsg();
-        hello.test();
+        hello.test("Hello There!");
     }
 }

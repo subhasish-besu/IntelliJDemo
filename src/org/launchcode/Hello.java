@@ -12,7 +12,8 @@ public class Hello {
         System.out.println("Hello Tom!");
     }
 
-    public  void test(){
-        System.out.println("This is for test");
+    public  void test(String args){
+       String s = args;
+        System.out.println(s);
     }
 }
