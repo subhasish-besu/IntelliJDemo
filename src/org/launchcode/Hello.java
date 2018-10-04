@@ -7,4 +7,8 @@ public class Hello {
         System.out.println("Hello Jennifer Lawrence!!!!!!!");
 
     }
+
+    public void showMsg(){
+        System.out.println("Hello Tom!");
+    }
 }

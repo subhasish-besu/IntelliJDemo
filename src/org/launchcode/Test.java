@@ -8,5 +8,6 @@ public class Test {
 
         Hello hello = new Hello();
         hello.displayMsg();
+        hello.showMsg();
     }
 }
